@@ -1,0 +1,7 @@
+{
+  "name": "ClubInfoApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
